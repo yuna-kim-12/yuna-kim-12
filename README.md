@@ -1,5 +1,5 @@
-### Hello,
-I'm yunha kim. 
+### Welcome,
+I'm yunha kim🙋‍♀️
 
 ### 💻 What I did in the past
 ---
@@ -11,8 +11,8 @@ I'm yunha kim.
 ### 🎁 What I'm currently interested in
 ---
 - living a **healthy life**✨ to do more things that I like(🤿swimming, 🥗healthy foods, 📕reading, etc.)
-- finding a job fits for me better than sales manager
-- making happy life and better society
+- **finding a job fits for me** better than sales manager
+- making **happy life and better society**
 
 ### 📚 My Goal for 2024
 ---
