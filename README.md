@@ -1,6 +1,7 @@
 ![Welcome](https://static.vecteezy.com/system/resources/previews/010/925/820/non_2x/colorful-welcome-design-template-free-vector.jpg)
-I'm Yunha Kim🙋‍♀️
 
+### I'm Yunha Kim🙋‍♀️
+---
 ### 💻 What I did in the past
 ```
 - 2015.03 ~ 2020.08 majored in business and philosophy
@@ -18,7 +19,8 @@ I'm Yunha Kim🙋‍♀️
 
 ### 📚 My Goal for 2024
 ```
-- To be *responsible* for what I choose
-- Study for Programming Language, Data, Algorithm
+1. To be *responsible* for what I choose
+2. Study for Programming Language, Data, Algorithm
 : To raise my level to significant state so that I can be a data analyst.
+3. Record various moments of my life steadily
 ```
