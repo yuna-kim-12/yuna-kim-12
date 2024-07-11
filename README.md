@@ -2,12 +2,12 @@
 I'm Yunha Kim🙋‍♀️
 
 ### 💻 What I did in the past
-'''
+```
 - 2015.03 ~ 2020.08 majored in business and philosophy
 - 2018.07 ~ 2018.09 internship as promotion manager in learn team of [rootimpact](https://rootimpact.org/)
 - 2019.02 ~ 2019.06 exchange student in [CLSBE](https://clsbe.lisboa.ucp.pt/), Lisboa
 - 2021.02 ~ 2024.03 worked as a sales manager in teleco
-'''
+```
 
 ### 🎁 What I'm currently interested in
 ---
