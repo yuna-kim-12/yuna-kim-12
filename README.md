@@ -16,6 +16,6 @@ I'm yunha kim.
 
 ### 📚 My Goal for 2024
 ---
-- To be responsible for what I chose
+- To be responsible for what I choose
 - Study for Programming Language, Data, Algorithm
 : I'm currently learning programming with python. I want to raise my level to significant state so that I can be a data analyst.
