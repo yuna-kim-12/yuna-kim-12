@@ -1,6 +1,4 @@
 ### Hello,
-
----
 I'm yunha kim. 
 
 ### 💻 What I did in the past
